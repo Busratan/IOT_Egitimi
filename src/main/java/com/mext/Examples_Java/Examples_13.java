@@ -1,6 +1,7 @@
 package com.mext.Examples_Java;
 
 import java.util.Scanner;
+//
 
 public class Examples_13 {
     //Kullanıcının girdiği metinde belirli bir kelimenin yerine başka bir kelime koyun.
